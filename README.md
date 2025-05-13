@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **solving problems**
 
-- 💬 Ask me about **NuxtJS, graphQL**
+- 💬 Ask me about **algorithms and coding in general**
 
 - 📫 How to reach me **alassanebv23@gmail.com**
 
