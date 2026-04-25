@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pba23" alt="pba23" /></a> </p>
 
-- 🔭 I’m currently working on **mood detector**
-
-- 🌱 I’m currently learning **AI, deep learning, machine learning**
+- 🔭 I’m currently searching for a job
 
 - 👯 I’m looking to collaborate on **in Ai projects**
-
-- 🤝 I’m looking for help with **solving problems**
 
 - 💬 Ask me about **algorithms and coding in general**
 
